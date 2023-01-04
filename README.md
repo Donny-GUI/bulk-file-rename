@@ -4,13 +4,23 @@
 
 Command line tool that renames files with the given extension argument  as their indexes. Includes the ability to prefix and suffix file type.
 
-# getting started
+# Install Linux / MacOS
 
 ```Bash
 
 git clone https://github.com/Donny-GUI/bulk-file-rename.git
 cd bulk-file-rename
-python3 installer.py
+python3 install.py
+
+```
+
+# Install on Windows
+
+```Powershell
+
+git clone https://github.com/Donny-GUI/bulk-file-rename.git
+cd bulk-file-rename
+py install.py
 
 ```
 
@@ -31,3 +41,8 @@ bfr -e jpeg -p hi -s mom
 -p  --prefix    # prefix, add a prefix to the filename
 -h  --help      # help, shows the menu
 ```
+
+
+# Installer
+
+I made a custom installer for this project. I have yet to test the windows version. I went off what i remember from windows. So goodluck.
