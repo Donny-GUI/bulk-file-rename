@@ -1,5 +1,7 @@
 ![bfr](https://user-images.githubusercontent.com/108424001/210458734-0931b43c-8888-4e5d-85f2-2c1f7195de97.png)
 
+# BFR
+
 # bulk-file-rename
 
 Command line tool that renames files with the given extension argument  as their indexes. Includes the ability to prefix and suffix file type.
